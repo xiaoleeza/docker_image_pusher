@@ -6,6 +6,7 @@ nginx
 # busybox:latest
 # openjdk:8-jre-alpine
 # mrhavens/dedockify:latest
-centos:7
+# centos:7
+nacos/nacos-server:2.3.2
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
