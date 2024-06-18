@@ -5,6 +5,7 @@ nginx
 # golang:1.22.4
 # busybox:latest
 # openjdk:8-jre-alpine
-mrhavens/dedockify:latest
+# mrhavens/dedockify:latest
+centos:7
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
