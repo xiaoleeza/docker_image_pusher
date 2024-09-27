@@ -7,6 +7,10 @@ nginx
 # openjdk:8-jre-alpine
 # mrhavens/dedockify:latest
 # centos:7
-centos:7.9.2009
+# centos:7.9.2009
+docker.io/ctrox/csi-s3:v1.1.1
+quay.io/k8scsi/csi-provisioner:v1.1.0
+quay.io/k8scsi/csi-node-driver-registrar:v1.1.0
+quay.io/k8scsi/csi-attacher:v1.1.0
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
