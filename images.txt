@@ -8,9 +8,6 @@ nginx
 # mrhavens/dedockify:latest
 # centos:7
 # centos:7.9.2009
-docker.io/ctrox/csi-s3:v1.1.1
-quay.io/k8scsi/csi-provisioner:v1.1.0
-quay.io/k8scsi/csi-node-driver-registrar:v1.1.0
-quay.io/k8scsi/csi-attacher:v1.1.0
+docker.io/onlyoffice/documentserver:8.2.2
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+# --platform=linux/arm64 xiaoyaliu/alist
