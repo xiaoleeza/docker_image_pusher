@@ -8,6 +8,6 @@ nginx
 # mrhavens/dedockify:latest
 # centos:7
 # centos:7.9.2009
-docker.io/onlyoffice/documentserver:8.2.2
+docker.io/186184848/documentserver:8.0.1
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
