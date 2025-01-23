@@ -8,6 +8,6 @@ nginx
 # mrhavens/dedockify:latest
 # centos:7
 # centos:7.9.2009
-iflyendless/pdf2html-service:1.0.1
+pdf2htmlex/pdf2htmlex:0.18.8.rc1-master-20200630-Ubuntu-bionic-x86_64
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
