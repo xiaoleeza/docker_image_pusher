@@ -8,6 +8,6 @@ nginx
 # mrhavens/dedockify:latest
 # centos:7
 # centos:7.9.2009
---platform linux/amd64 mysql:8.0.39
+--platform linux/amd64 mysql:5.7.41
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
