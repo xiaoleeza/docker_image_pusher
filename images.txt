@@ -8,7 +8,7 @@ nginx
 # mrhavens/dedockify:latest
 # centos:7
 # centos:7.9.2009
-eosphorosai/dbgpt:latest
+eosphorosai/dbgpt:v0.6.0
 
 # --platform=linux/amd64 minio/minio:RELEASE.2025-02-18T16-25-55Z-cpuv1
 #支持指定架构
