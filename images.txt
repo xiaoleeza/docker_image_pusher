@@ -20,4 +20,5 @@ nginx
 # --platform=linux/amd64 sharelatex/sharelatex:5
 # --platform=linux/amd64 mongo:6.0
 # --platform=linux/amd64 redis:6.2
---platform=linux/amd64 langchain-api:3.11
+--platform=linux/amd64 langchain/langgraph-api:3.11
+
