@@ -8,7 +8,7 @@ nginx
 # mrhavens/dedockify:latest
 # centos:7
 # centos:7.9.2009
-# infiniflow/ragflow:nightly-slim
+infiniflow/ragflow:nightly-slim
 # docker:20.10.12-dind
 # --platform=linux/amd64 neo4j:4.4.42
 # svcvit/dify-sandbox-py:0.1.2
@@ -20,5 +20,5 @@ nginx
 # --platform=linux/amd64 sharelatex/sharelatex:5
 # --platform=linux/amd64 mongo:6.0
 # --platform=linux/amd64 redis:6.2
---platform=linux/amd64 langchain/langgraph-api:3.11
+# --platform=linux/amd64 langchain/langgraph-api:3.11
 
