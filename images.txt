@@ -14,8 +14,7 @@ nginx
 # svcvit/dify-sandbox-py:0.1.2
 # --platform=linux/amd64 minio/minio:RELEASE.2025-02-18T16-25-55Z-cpuv1
 # --platform=linux/amd64 langgenius/dify-sandbox:0.2.11
---platform=linux/amd64 shaw001/nl2sql-openai-api
---platform=linux/amd64 shaw001/model-openai-api
+keking/kkfileview:latest
 # cpython:3.10-alpine
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
