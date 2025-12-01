@@ -3,7 +3,7 @@ nginx
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 # xhofe/alist:latest
 # golang:1.22.4
-# busybox:latest
+busybox:latest
 # openjdk:8-jre-alpine
 # mrhavens/dedockify:latest
 # centos:7
