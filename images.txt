@@ -16,8 +16,7 @@ busybox:latest
 # --platform=linux/amd64 langgenius/dify-sandbox:0.2.11
 # milvusdb/milvus:v2.6.0
 # --platform=linux/amd64 wechatopenai/weknora-docreader:v0.1.5
-infiniflow/ragflow:nightly
-infiniflow/infinity:nightly
+--platform=linux/amd64 ymlisoft/kkfileview-base:4.4.0-v2
 # cpython:3.10-alpine
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
