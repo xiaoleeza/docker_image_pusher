@@ -18,7 +18,7 @@ busybox:latest
 # --platform=linux/amd64 wechatopenai/weknora-docreader:v0.1.5
 --platform=linux/amd64 infiniflow/ragflow:nightly
 # --platform=linux/amd64 mongo:4.4.30
-
+--platform=linux/amd64 ghcr.io/hkuds/deeptutor:latest
 # cpython:3.10-alpine
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
