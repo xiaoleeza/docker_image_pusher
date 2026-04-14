@@ -22,8 +22,9 @@ nginx
 #--platform=linux/amd64 alpine/openclaw:2026.3.7
 #--platform=linux/amd64 ghcr.io/ayaka-notes/texlive-full:2025.1
 #--platform=linux/amd64 ghcr.io/ayaka-notes/texlive-full:2024.1
---platform=linux/amd64 ghcr.io/ayaka-notes/overleaf-pro:6.1.2
---platform=linux/amd64 quay.io/sharelatex/git-bridge:6.1.2
+#--platform=linux/amd64 ghcr.io/ayaka-notes/overleaf-pro:6.1.2
+#--platform=linux/amd64 quay.io/sharelatex/git-bridge:6.1.2
+--platform=linux/amd64 ghcr.io/ayaka-notes/texlive-full:base-24.04
 # cpython:3.10-alpine
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
